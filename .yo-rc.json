@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "oauth2",
+    "baseName": "truffe",
+    "buildTool": "maven",
+    "cacheProvider": "memcached",
+    "creationTimestamp": 1709888926384,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "enableGradleEnterprise": null,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": false,
+    "gradleEnterpriseHost": null,
+    "jhipsterVersion": "8.1.0",
+    "messageBroker": false,
+    "nativeLanguage": "fr",
+    "packageName": "com.audensiel.truffe",
+    "prodDatabaseType": "mongodb",
+    "reactive": false,
+    "searchEngine": false,
+    "serverPort": null,
+    "serverSideOptions": ["websocket:spring-websocket"],
+    "serviceDiscoveryType": false,
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": [],
+    "websocket": "spring-websocket"
+  }
+}
